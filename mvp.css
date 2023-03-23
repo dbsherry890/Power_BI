@@ -70,7 +70,7 @@ body {
     margin: 0;
     overflow-x: hidden;
     padding: 0;
-    background-image: url(background.jfif);
+    background-image: url("background.jfif");
     background-size: cover;
 }
 
